@@ -1,4 +1,4 @@
-# 🧬 Gene Expression Analysis and Disease Relationship
+# 🧬 Gene Expression Analysis 
 
 ## 📌 Project Overview  
 This project explores whether **gene expression profiles** can be used to **predict disease risk and treatment response**.  
@@ -74,4 +74,5 @@ Using machine learning models, we can classify patients based on their gene expr
 - Potential applications in **biomarker discovery** and **personalized medicine**.  
 
 ---
+
 
